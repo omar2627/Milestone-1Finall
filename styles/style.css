@@ -97,16 +97,20 @@ color: white;
     border-radius: 16px;
     padding:32px;
 }
-.sec3{
-    background-color: #ffffff;
-    width:1280px;
-    margin:0px 20px 0px 390px;
-    padding:20px;   
-border-radius: 16px;
-}
+
 .s3c1{
-    font-size: 16;
-    color:#6e6e6e;
+
+    width: 1230px;
+  height: 160px;
+  margin: 0 auto;
+  background-color: #fff;
+  border: 1px solid rgba(14, 14, 14, 0.15);
+  border-radius: 16px;
+  padding: 48px 24px;
+  background-image: url("facebook.jpg");
+  background-repeat: no-repeat;
+  margin-bottom: 80px;
+  background-position: 25px 25px;
     
 }
 #abc{
@@ -114,7 +118,7 @@ border-radius: 16px;
     font-weight: bold;
 }
 #xy{
-    color:#7da1c1;
+    color:#888888;
     font-size: 16px;
 }
 #s4id1{
@@ -243,10 +247,7 @@ justify-content: center;
     font-size: 30px;
    margin:25px 30px 100px 950px;
 }
-#s7id1{
-    padding: 10px 14px 10px 14px;
 
-}
 
 .s7c2 {
     width: 1280px;
