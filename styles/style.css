@@ -102,16 +102,19 @@ color: white;
 
     width: 1230px;
   height: 160px;
-  margin: 0 auto;
+  margin: 25px 30px 100px 400px;
   background-color: #fff;
   border: 1px solid rgba(14, 14, 14, 0.15);
   border-radius: 16px;
   padding: 48px 24px;
-  background-image: url("facebook.jpg");
+  background-image: url("../quote.jpg");
   background-repeat: no-repeat;
   margin-bottom: 80px;
-  background-position: 25px 25px;
-    
+  background-position: 25px 36px;
+}
+.s3same{
+    color:#797979;
+
 }
 #abc{
     font-size: 20px;
@@ -129,6 +132,9 @@ color: white;
     width:1280px;
     margin:20px 20px 0px 390px;
     
+}
+.s4c5{
+color:#797979;
 }
 .s4c22{
     width:1280px;
