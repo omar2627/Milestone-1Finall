@@ -34,6 +34,9 @@ body{
     background-color: #006a50;
     border-color: #006a50;
 }
+.btn:hover{
+    background-color:#6c6c6c;
+}
 section div a{
     font-size: 18px;
 color: white;
@@ -68,16 +71,25 @@ color: white;
     border-radius: 8px;
     background-color: #ffc239;
 }
+.btn3:hover{
+background-color:#6F7E77 ;
+}
 .btn2{
     padding:20px;
     border-radius: 8px;
     background-color: #09a15c;
    
 }
+.btn2:hover{
+    background-color:#6c6c6c;
+}
 .btn1{
     padding:20px;
     border-radius: 8px;
     background-color: #5490f5;
+}
+.btn1:hover{
+    background-color:#6F7E77;
 }
 .cl3{
     background-color: #d5e1f5;
